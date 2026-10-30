@@ -50,10 +50,12 @@ git push
 
 ## 常用工具与技术栈 (Tools & stack)
 
-- 示例：设计工具待补充（建模、渲染、原型各自常用的软件）。
-- 示例：会在 ChatGPT、Claude、Cursor、本地 Ollama、Grok Bot 之间切换，以本仓库为共同档案。
-- 示例：本地 DeepSeek 用 `ds -s` 挂上本文件摘要。
-- 示例：文本与代码用 Git / GitHub 管理，修改都留下提交记录。
+AI Agent：Grok Bot、Claude、ChatGPT、Ollama、Cursor
+音频声学：钰龙DA10、SMSL、STK功放、清韵音箱，NVH谐振仿真、节律声学刺激建模
+设备：三星S25 Plus、华为平板、Mac；剪映用于短视频脚本与成片制作
+文档协作：GitHub、Markdown；习惯搭建DAG自治工作流、任务拆分并行调度
+研究查阅：学术文献检索、生理监测设备、智能戒指/脑电头环等健康传感设备
+爱好相关：模型收藏、音响调校、赛车与军武考据
 
 ## 项目经验与成果 (Projects & outcomes)
 
