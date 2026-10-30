@@ -10,7 +10,7 @@
 
 - 各 AI 的 Custom Instructions / System prompt / Rules 可链接或粘贴本 README。
 - 本地 DeepSeek 可用 `ds -s` 指向本文件摘要。
-- 六个小节里标了「示例」的条目都是占位，换成你自己的话后再给 AI 引用。
+- 下面六个小节是正式档案；文末「短版 system prompt（可粘贴）」可直接复制。
 
 ## 怎么更新 (How to update)
 
@@ -26,8 +26,6 @@ git push
 ```
 
 要回退某一版：`git log` 找到提交，再用 `git revert <commit>`（保留历史）或 `git checkout <commit> -- README.md` 后重新提交。
-
-待办不写在本文件里，用 [GitHub Issues](https://github.com/yitongl-eng/ai-personal-profile/issues) 跟踪：按下面六个小节补全真实内容，并另写一份给各 AI 的短版 system prompt。
 
 ---
 
